@@ -93,3 +93,6 @@ simple-todo-app/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/simple-todo-app/issues).
+
+# Demo GIF
+![Demo GIF](https://raw.githubusercontent.com/umaraslam-cs/react-todo-app/main/demo.gif)
