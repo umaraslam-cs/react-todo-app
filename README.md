@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/simple-todo-app.git
+git clone https://github.com/umaraslam-cs/react-todo-app.git
 cd simple-todo-app
 ```
 
